@@ -1,10 +1,10 @@
 ## Olá! Meu nome é Wesley Senciani 👋🏽
 Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Indaiatuba.
 
-<div>
+<div href="https://github.com/WSenci">
   <a href="https://github.com/WSenci">
   <img height="230em" src="https://github-readme-stats.vercel.app/api?username=WSenci&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSenci&layout=compact&langs_count=16&theme=github_dark" />
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSenci&layout=compact&langs_count=14&theme=github_dark" />
 </div>
 
 <div style="display: inline_block"><br>
