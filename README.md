@@ -3,7 +3,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Indaiatuba.
 
 <div href="https://github.com/WSenci">
   <img height="230em" src="https://github-readme-stats.vercel.app/api?username=WSenci&show_icons=true&theme=transparent&bg_color=00000000&include_all_commits=true&count_private=true" />
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSenci&layout=compact&langs_count=16&theme=transparent&bg_color=7a7a7a" />
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSenci&layout=compact&langs_count=16&theme=transparent&bg_color=00000000" />
 
   <!--
   <img height="230em" src="https://github-readme-stats.vercel.app/api?username=WSenci&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
